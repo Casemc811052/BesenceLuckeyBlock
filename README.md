@@ -1,1 +1,2 @@
 # BesenceLuckeyBlock
+びーせんすのラッキーブロックプラグインです
